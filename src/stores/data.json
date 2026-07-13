@@ -1,6 +1,6 @@
 {
   "sourceDir": "Publish",
-  "indexFilePath": "Publish/Welcome.md",
+  "indexFilePath": "Publish/index.md",
   "repositoryUrl": "https://github.com/ACIIL/ACIIL.github.io",
   "isActivated": true,
   "version": "0.1.1",
